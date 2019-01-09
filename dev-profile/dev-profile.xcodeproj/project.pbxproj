@@ -54,6 +54,7 @@
 		180301DA21E5C6570094A54D /* dev-profile */ = {
 			isa = PBXGroup;
 			children = (
+				180301ED21E5D7BD0094A54D /* View */,
 				180301DB21E5C6570094A54D /* AppDelegate.swift */,
 				180301DD21E5C6570094A54D /* ViewController.swift */,
 				180301DF21E5C6570094A54D /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				180301E721E5C65E0094A54D /* Info.plist */,
 			);
 			path = "dev-profile";
+			sourceTree = "<group>";
+		};
+		180301ED21E5D7BD0094A54D /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
